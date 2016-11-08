@@ -1,2 +1,1 @@
-# hello-world
-Teste
+Isto é apenas um teste inicial.
